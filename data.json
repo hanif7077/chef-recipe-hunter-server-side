@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Chef John",
+    "experience": 10,
+    "likes": 1000,
+    "image": "https://flowbite.com/docs/images/people/profile-picture-3.jpg",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": "Ground beef, spaghetti, diced tomatoes, tomato paste, onion, garlic",
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. In a large skillet, brown ground beef with onion and garlic. 3. Add diced tomatoes and tomato paste, and simmer for 10 minutes. 4. Serve sauce over spaghetti.",
+        "rating": 5
+      },
+      {
+        "recipeName": "Chicken Alfredo",
+        "ingredients": "Chicken breast, fettuccine pasta, heavy cream, Parmesan cheese, garlic",
+        "cookingMethod": "1. Cook fettuccine pasta according to package instructions. 2. In a large skillet, cook chicken breast with garlic until browned. 3. Add heavy cream and Parmesan cheese, and simmer for 10 minutes. 4. Serve sauce over fettuccine pasta.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chef Sarah",
+    "experience": 8,
+    "likes": 750,
+    "image": "https://flowbite.com/docs/images/people/profile-picture-1.jpg",
+    "recipes": [
+      {
+        "recipeName": "Roasted Salmon",
+        "ingredients": "Salmon fillet, olive oil, salt, black pepper, lemon",
+        "cookingMethod": "1. Preheat oven to 400°F. 2. Rub salmon fillet with olive oil and sprinkle with salt and black pepper. 3. Place salmon on a baking sheet and roast for 12-15 minutes, or until cooked through. 4. Serve with lemon wedges.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Greek Salad",
+        "ingredients": "Romaine lettuce, cherry tomatoes, cucumber, red onion, feta cheese, kalamata olives, olive oil, red wine vinegar, salt, black pepper",
+        "cookingMethod": "1. Wash and chop romaine lettuce and place in a large bowl. 2. Add cherry tomatoes, sliced cucumber, diced red onion, crumbled feta cheese, and kalamata olives. 3. In a small bowl, whisk together olive oil, red wine vinegar, salt, and black pepper. 4. Pour dressing over salad and toss to combine.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chef Michael",
+    "experience": 12,
+    "likes": 1200,
+    "image": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+    "recipes": [
+      {
+        "recipeName": "Beef Stew",
+        "ingredients": "Beef chuck roast, carrots, potatoes, onion, garlic, tomato paste, beef broth, Worcestershire sauce, thyme, salt, black pepper",
+        "cookingMethod": "1. Cut beef chuck roast into cubes and season with salt and black pepper. 2. In a large pot, brown beef over medium-high heat. 3. Add diced onion and minced garlic, and cook until onion is translucent. 4. Add diced carrots, potatoes, tomato paste, beef broth, Worcestershire sauce, and thyme. 5. Simmer for 1.5 to 2 hours, or until beef and vegetables are tender.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chocolate Chip Cookies",
+        "ingredients": "All-purpose flour, baking soda, salt, unsalted butter, granulated sugar, brown sugar, eggs, vanilla extract, chocolate chips",
+        "cookingMethod": "1. Preheat oven to 375°F. 2. In a medium bowl, whisk together flour, baking soda, and salt. 3. In a large bowl, cream together butter, granulated sugar, and brown sugar. 4. Add eggs and vanilla extract, and beat until smooth. 5. Gradually add dry ingredients to wet mixture, mixing until just combined. 6. Stir in chocolate chips. 7. Drop dough by rounded tablespoons onto baking sheets. 8. Bake for 10-12 minutes, or until golden brown.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chef Maria",
+    "experience": 6,
+    "likes": 500,
+    "image": "https://flowbite.com/docs/images/people/profile-picture-4.jpg",
+    "recipes": [
+      {
+        "recipeName": "Shrimp Scampi",
+        "ingredients": "Large shrimp, linguine, garlic, butter, olive oil, lemon juice, white wine, salt, black pepper",
+        "cookingMethod": "1. Cook linguine according to package instructions. 2. In a large skillet, melt butter with olive oil over medium heat. 3. Add minced garlic and cook for 1-2 minutes. 4. Add large shrimp and cook until pink. 5. Add lemon juice and white wine, and simmer for 5-7 minutes. 6. Serve over linguine.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Caprese Salad",
+        "ingredients": "Roma tomatoes, fresh mozzarella, fresh basil, olive oil, balsamic vinegar, salt, black pepper",
+        "cookingMethod": "1. Slice Roma tomatoes and fresh mozzarella into rounds. 2. Arrange tomato and mozzarella slices on a serving platter, alternating them. 3. Top with fresh basil leaves. 4. In a small bowl, whisk together olive oil, balsamic vinegar, salt, and black pepper. 5. Drizzle dressing over salad.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chef David",
+    "experience": 8,
+    "likes": 800,
+    "image": "https://flowbite.com/docs/images/people/profile-picture-5.jpg",
+    "recipes": [
+      {
+        "recipeName": "Grilled Steak",
+        "ingredients": "Ribeye steak, garlic, rosemary, olive oil, salt, black pepper",
+        "cookingMethod": "1. Season ribeye steak with minced garlic, chopped rosemary, olive oil, salt, and black pepper. 2. Preheat grill to high heat. 3. Grill steak for 3-4 minutes per side for medium-rare. 4. Let steak rest for 5-10 minutes before slicing and serving.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Roasted Brussels Sprouts",
+        "ingredients": "Brussels sprouts, olive oil, salt, black pepper",
+        "cookingMethod": "1. Preheat oven to 400°F. 2. Trim and halve Brussels sprouts. 3. Toss Brussels sprouts with olive oil, salt, and black pepper. 4. Spread Brussels sprouts in a single layer on a baking sheet. 5. Roast for 20-25 minutes, or until tender and browned.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chef Rachel",
+    "experience": 15,
+    "likes": 1500,
+    "image": "https://flowbite.com/docs/images/people/profile-picture-3.jpg",
+    "recipes": [
+      {
+        "recipeName": "Beef Tacos",
+        "ingredients": "Ground beef, taco seasoning, taco shells, shredded cheddar cheese, lettuce, tomato, sour cream, hot sauce",
+        "cookingMethod": "1. In a large skillet, brown ground beef over medium-high heat. 2. Add taco seasoning and water, and simmer for 10 minutes. 3. Serve beef in taco shells with shredded cheddar cheese, lettuce, tomato, sour cream, and hot sauce.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Banana Bread",
+        "ingredients": "All-purpose flour, baking soda, salt, unsalted butter, granulated sugar, eggs, ripe bananas, vanilla extract, chopped walnuts",
+        "cookingMethod": "1. Preheat oven to 350°F. 2. In a medium bowl, whisk together flour, baking soda, and salt. 3. In a large bowl, cream together butter and granulated sugar. 4. Add eggs, mashed ripe bananas, and vanilla extract, and beat until smooth. 5. Gradually add dry ingredients to wet mixture, mixing until just combined. 6. Stir in chopped walnuts. 7. Pour batter into a greased loaf pan. 8. Bake for 50-60 minutes, or until a toothpick inserted into the center comes out clean.",
+        "rating": 4.8
+      }
+    ]
+  }
+]
